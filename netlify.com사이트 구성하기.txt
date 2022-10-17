@@ -1,0 +1,17 @@
+1. https://www.free-css.com/free-css-templates 접속하기
+2. 원하는 템플릿 download 하기
+3. 압축풀기
+4. indexhtml 파일 확인 및 필요시 수정
+5. www.netlify.com접속
+6. github으로 회원가입 하기
+7. Drag and drop your site output folder here에 폴더를 가져다 놓는다.
+8. 상단에 주소가 생성된다 클릭하여 접속한다.
+9. Site settings클릭해서 주소 변경하기가능
+
+===github 연결하여 사용하기====
+7.import from Git클릭
+8.저장 항목이 리스트가 나타나고 하나를 선택한다
+9.기본설정으로 두고 deploy site버튼 클릭
+10. 주소생성되면 클릭 하고 실행 하면된다.
+11. 코드 변경을 해서 다시 업로드 하려면 깃허브에 올리면 된다.
+12. netify사이트 새로고침하면된다.
