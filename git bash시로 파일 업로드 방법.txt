@@ -62,7 +62,9 @@ $ git remote add origin https://github.com/ckw7407/testcode.git
 
 $ git remote -v
 
-$git push origin master
+$ git push origin master
+
+$ git remote rm origin
 
 =========================================== git end
 
